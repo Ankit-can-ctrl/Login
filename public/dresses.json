@@ -1,0 +1,52 @@
+{
+  "dresses": [
+    {
+      "id": 1,
+      "name": "Summer Floral Dress",
+      "price": 59.99,
+      "color": "Blue",
+      "size": "M",
+      "type": "Casual"
+    },
+    {
+      "id": 2,
+      "name": "Elegant Evening Gown",
+      "price": 129.99,
+      "color": "Black",
+      "size": "S",
+      "type": "Formal"
+    },
+    {
+      "id": 3,
+      "name": "Bohemian Maxi Dress",
+      "price": 79.99,
+      "color": "Green",
+      "size": "L",
+      "type": "Casual"
+    },
+    {
+      "id": 4,
+      "name": "Cocktail Party Dress",
+      "price": 89.99,
+      "color": "Red",
+      "size": "M",
+      "type": "Semi-Formal"
+    },
+    {
+      "id": 5,
+      "name": "Vintage Polka Dot Dress",
+      "price": 69.99,
+      "color": "White",
+      "size": "S",
+      "type": "Casual"
+    },
+    {
+      "id": 6,
+      "name": "Sleek Business Dress",
+      "price": 99.99,
+      "color": "Navy",
+      "size": "L",
+      "type": "Formal"
+    }
+  ]
+}
